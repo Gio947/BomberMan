@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dati>
+  <Giocatore>5000</Giocatore>
+  <portaRemota>5001</portaRemota>
+  <indirizzoIP>127.0.0.1</indirizzoIP>
+  <username>Giocatore2</username>
+</dati>
